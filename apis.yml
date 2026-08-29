@@ -30,6 +30,9 @@ description: Target Arm is a robotics company building systems to autonomously l
   defense/ISR use cases. A Techstars-backed hardware startup with no public API or developer program at this
   time; this network profile captures identity and infrastructure signals only.
 url: https://raw.githubusercontent.com/api-evangelist/target-arm/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "A Techstars-backed hardware startup with no public API or developer program at this time; this network profile captures identity and infrastructure signals only."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
